@@ -2,4 +2,4 @@
 
 Segunda versão do sistema bancário do desafio do Bootcamp da DIO
 
-O arquivo main.py inicia o programa.
+O arquivo `main.py` inicia o programa.
